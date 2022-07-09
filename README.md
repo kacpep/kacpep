@@ -1,4 +1,4 @@
-## Hey 👋, I'm Kacper
+## Hey 👋, I'm kacpep
 
 - 🔭 I’m currently working on client webside
 - 🌱 I’m currently learning php,animation css,html,js...
