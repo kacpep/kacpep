@@ -11,3 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kacpep&theme=tokyonight&hide_border=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=kacpep&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/kacpep/kacpep/blob/output/github-contribution-grid-snake.svg)
