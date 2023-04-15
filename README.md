@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning nodejs <br>💬 Ask me about all<br>⚡ Fun fact yes<br>👯 Yes, I am looking for cooperation <br> ⚙️ See my project [Server Worker](https://github.com/kacpep/server-worker), [ZTM Rzeszow](https://github.com/kacpep/ztm-vehicles)
+🌱 I'm currently learning nodejs <br>💬 Ask me about all<br>⚡ Fun fact yes<br>👯 Yes, I am looking for cooperation <br> ⚙️ See my projects [Server Worker](https://github.com/kacpep/server-worker), [ZTM Rzeszow](https://github.com/kacpep/ztm-vehicles)
 
 
 # 💻 Tech Stack:
